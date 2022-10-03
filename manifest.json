@@ -7,7 +7,7 @@
         {
             "run_at": "document_end",
             "matches": ["https://app.educationperfect.com/*"],
-            "css": ["focusindicatorremoved.css"],
+            "css": ["injected_css.css"],
             "js": ["injector_script.js"]
         }
     ],
